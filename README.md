@@ -4,9 +4,9 @@
 Fully JWT Authetication for Restful NodeJS API ready to be used.
 First Read the server code to take an idea then try it with **PPOSTMAN** :
 
-# Firstly 
+## Firstly 
 
-##Post Request
+### Post Request
 http://localhost:3000/api/register/
 *Body:  x-www-form-urlencodd*
 
@@ -32,9 +32,9 @@ Otherwise you shall Receive
 }
 
 
-# Secondly 
+## Secondly 
 
-## Post Request 
+### Post Request 
 http://localhost:3000/api/authenticate/
 
 {
@@ -44,12 +44,12 @@ http://localhost:3000/api/authenticate/
 
 
 
-#Lastly
+## Lastly
 
-####GET Request
+### GET Request
 http://localhost:3000/api/dashboard/
 
-#####Headers
+Headers
 | Key           | value     | 
 | ------------- |:---------:|
 | Authorization | copy toke |
