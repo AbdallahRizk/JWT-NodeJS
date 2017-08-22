@@ -1,0 +1,32 @@
+{
+  "name": "authjwt",
+  "version": "1.0.0",
+  "description": "This is just to perpare my knowledge before applying it to the bookstore web app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbdallahRizk/JWT-NodeJS.git"
+  },
+  "keywords": [
+    "JWT"
+  ],
+  "dependencies": {
+    "express": "*",
+    "body-parser": "*",
+    "passport": "*",
+    "passport-jwt": "*",
+    "bcrypt": "*",
+    "morgan": "*",
+    "mongoose": "*",    
+    "jsonwebtoken": "*"
+  },
+  "author": "AbdallahRizk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbdallahRizk/JWT-NodeJS/issues"
+  },
+  "homepage": "https://github.com/AbdallahRizk/JWT-NodeJS#readme"
+}
