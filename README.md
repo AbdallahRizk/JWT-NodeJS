@@ -2,7 +2,7 @@
 
 
 Fully JWT Authetication for Restful NodeJS API ready to be used.
-First Read the server code to take an idea then try it with **PPOSTMAN** :
+First Read the server code to take an idea then try it with **POSTMAN** :
 
 ## Firstly 
 
@@ -50,9 +50,10 @@ http://localhost:3000/api/authenticate/
 http://localhost:3000/api/dashboard/
 
 Headers
-| Key           | value     | 
-| ------------- |:---------:|
-| Authorization | copy toke |
+
+| key           | value             | 
+| ------------- |:-----------------:|
+| Authorization | copy toke         |
 
 
 Shall Receive
