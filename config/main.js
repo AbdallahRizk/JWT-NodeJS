@@ -1,4 +1,4 @@
-module.export = {
-    'secret' : 'WhatsUpManThisIsSoSecretBitch'
-    ,'database': 'mongodb://127.0.0.1:27017/auth'
-};
+module.exports = {
+    'secret': 'thisisthesecretwordyougottobecafulcheers',
+    'database': 'mongodb://localhost:27017/auth'
+  };
