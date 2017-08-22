@@ -3,8 +3,7 @@ var ExtractJwt = require('passport-jwt').ExtractJwt;
 var User = require('../app/models/user');
 var config = require('../config/main');
 
-
-
+// Setup work and export for the JWT passport strategy
 module.exports = function(passport) {
   var opts = {};
   opts.jwtFromRequest = ExtractJwt.fromAuthHeader();
