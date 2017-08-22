@@ -4,6 +4,15 @@
 Fully JWT Authetication for Restful NodeJS API ready to be used.
 First Read the server code to take an idea then try it with **POSTMAN** :
 
+*This is fast instractions how to do the setup:*
+* Clone the repo: `git clone https://github.com/AbdallahRizk/JWT-NodeJS.git`
+* Install packages: `npm install`
+* Change out the database configuration in config.js
+* Launch: node server.js or nodemon server.js
+* launch postman, and follow the steps down.
+
+
+
 ## Firstly 
 
 ### Post Request
